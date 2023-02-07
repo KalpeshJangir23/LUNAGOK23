@@ -2,7 +2,7 @@
 - 👀 I’m interested in App devlopment and Game devlopment
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me 21lunagok@gmail.com
-
+- 🤦 want to update my profile for a long time but I'm super lazy
 <!---
 LUNAGOK23/LUNAGOK23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
